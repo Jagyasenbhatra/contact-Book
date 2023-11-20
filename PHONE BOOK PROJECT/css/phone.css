@@ -1,0 +1,133 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body 
+{
+    display: flex;
+    justify-content: center;
+}
+.container
+{
+    background-color:transparent;
+    height: 700px;
+    width: 800px;
+    margin-top: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.form 
+{
+    background-color: greenyellow;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.update-form 
+{
+    background-color: greenyellow;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+h3 
+{
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: red;
+    text-shadow: 1px 1px 2px rgb(0, 17, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.data 
+{
+    background-color: burlywood;
+    height: 1000px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+/* input box */
+input
+{
+    outline: none;
+    height: 50px;
+    width: 170px;
+    text-align: center;
+    font-size: 20px;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+.input-box button
+{
+    display: hidden;
+}
+button#upd
+{
+    padding: 13px 30px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button#btn
+{
+    padding: 13px 30px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn:hover 
+{
+    transform: scale(1.1);
+}
+.upd:hover 
+{
+    transform: scale(1.1);
+}
+/* table */
+table button
+{
+  height: 30px;
+  width: 100px;
+  padding: 0 70px;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 10px;
+  background-color: aqua;
+  text-align: center;
+  cursor: pointer;
+  padding-left: 0;
+  padding-right: 0;
+}
+#search  
+{
+    margin-top: 18px;
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+table  
+{
+    text-align: center;
+    margin-top: 20px;
+    text-transform: capitalize;
+    
+}
