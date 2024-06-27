@@ -21,5 +21,5 @@
 
 
 ## screenshot 
-![figure 1](/PHONE%20BOOK%20PROJECT/Screenshot%202024-06-27%20084857.png)
-![figure 1](/PHONE%20BOOK%20PROJECT/Screenshot%202024-06-27%20084908.png)
+![figure 1](/Screenshot%202024-06-27%20084857.png)
+![figure 1](/Screenshot%202024-06-27%20084908.png)
